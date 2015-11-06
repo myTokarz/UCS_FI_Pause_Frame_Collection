@@ -5,8 +5,6 @@
 #
 # 10/23/15 @myTokarz
 #-------------------------------------------#
-import paramiko
-import time
 
 # ------------- CONFIG AREA ----------------# 
 USER = 'admin'
